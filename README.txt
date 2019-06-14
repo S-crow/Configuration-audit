@@ -1,3 +1,6 @@
+This is a script to perform the audit of configuration of a Windows Server 2012, it will check the values of key registers 
+on the server according to the CIS hardening benchmark.
+
 Name Test: CIS Hardening for Windows Server 2012R2
 
 Process:
